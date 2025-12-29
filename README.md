@@ -1,2 +1,2 @@
-# 🎓 Лабораторні роботи з курсу **«Systems-and-models-of-computational-mathematics»**
+# 🎓 Лабораторні роботи з курсу **«Systems andmodels of computational mathematics»**
 
